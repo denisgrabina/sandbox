@@ -1,3 +1,6 @@
+// 6 kyu
+// https://www.codewars.com/kata/5226eb40316b56c8d500030f/train/javascript
+
 function pascalsTriangle(n) {
   //return a flat array representing the values of Pascal's Triangle to the n-th level
   const result = [];
